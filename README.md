@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonFonseca)
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WellingtonFonseca)
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654c3f2768ca602613049d09?variant=light)](https://roadmap.sh)
