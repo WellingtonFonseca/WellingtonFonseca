@@ -2,7 +2,7 @@
 
 Trabalho com automação de marketing sobre o **Mautic**, integrado ao **n8n**.
 
-## Como eu trabalho: a IA programa, eu superviso
+## Como eu trabalho: a IA programa, eu supervisono
 
 Aposto que o futuro do desenvolvimento é a IA escrevendo o código e uma pessoa responsável por **garantir que ele esteja certo, seguro e entregue**. Todo o código dos meus projetos é escrito pelo **Claude** (Claude Code, da Anthropic), sob a minha supervisão. Não escondo isso: é o método.
 
